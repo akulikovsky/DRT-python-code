@@ -12,7 +12,7 @@ matplotlib 3.1.3.
 
 3. To run the test variant (DRT of Warburg finite--length impedance)
 open a terminal window (cmd in Windows machine) and type
-    > python3 TPGsolver.py
+    > python3 TPGrun.py
 
 4. To calculate DRT from your data, you have two options.
 

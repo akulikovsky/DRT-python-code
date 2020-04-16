@@ -40,7 +40,7 @@ both regularization parameters. If one of the parameters reaches
 the boundary value, change the initial guess for this parameter.
 
 6. Finally, run
-    > python3 TPGrun.pu
+    > python3 TPGrun.py
 
 7. Output files and plots are placed in the sub-folder 'results'.
 The text file 'Warburg_gamma.dat' contains 3 colums: f / Hz,

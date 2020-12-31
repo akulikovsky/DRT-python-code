@@ -106,8 +106,7 @@ The following plots will be shown during the code execution:
    All the plots above will be stored in the sub--folder './results/'
 
 7. Output files and plots are placed in the sub-folder 'results'.
-The text file 'Warburg_gamma.dat' contains 3 colums: f / Hz,
-gamma(f) (s^{-1}), and G(f) = gamma / (2 pi f).
+The text file 'Warburg_Gfun.dat' contains 2 colums: f / Hz and G(f).
 The text file 'Warburg_zim.dat' contains 3 columns: f / Hz,
 experimental Im(z) supplied by the user, and Im(Z) reconstructed from DRT.
 
